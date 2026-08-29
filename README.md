@@ -6,16 +6,7 @@ An MSc Data Science group project investigating whether violence-related and
 poverty-related themes are more prevalent in films produced in the Southern
 Hemisphere than in the Northern Hemisphere between 1990 and 2024.
 
-## My contribution
 
-I independently completed the work presented in the poster, including the
-research framing, data-analysis approach, interpretation of the findings, and
-the poster's visual design and written content.
-
-The poster lists Assia Ibrahim Kale, Walid Dachraoui and Yash Galande because
-the university assignment was formally organised as group work. They are
-acknowledged as the assigned group members; the analysis and poster content
-presented in this repository were produced by me.
 
 ## Research approach
 
@@ -49,7 +40,7 @@ presented in this repository were produced by me.
 ## Skills demonstrated
 
 - Research communication and data storytelling
-- Scientific-poster design
+- Scientific poster design
 - Natural language processing concepts
 - Spatial analysis concepts
 - Translating technical results for a non-specialist audience
@@ -59,7 +50,6 @@ presented in this repository were produced by me.
 
 **Analysis, interpretation, writing and poster production:** Noura Lakrimdi
 
-**Assigned group members acknowledged on the submitted poster:** Assia Ibrahim
-Kale, Walid Dachraoui and Yash Galande
+
 
 MSc Data Science, Middlesex University, 2026.

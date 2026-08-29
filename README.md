@@ -2,11 +2,15 @@
 
 ## Spatial and textual analysis of violence and poverty themes
 
-An MSc Data Science group project investigating whether violence-related and
+An independently completed MSc Data Science project investigating whether violence-related and
 poverty-related themes are more prevalent in films produced in the Southern
 Hemisphere than in the Northern Hemisphere between 1990 and 2024.
 
+## My contribution
 
+I independently completed the full project presented in the poster, including
+the research framing, data-analysis approach, interpretation of the findings,
+and the poster's visual design and written content.
 
 ## Research approach
 
@@ -40,16 +44,14 @@ Hemisphere than in the Northern Hemisphere between 1990 and 2024.
 ## Skills demonstrated
 
 - Research communication and data storytelling
-- Scientific poster design
+- Scientific-poster design
 - Natural language processing concepts
 - Spatial analysis concepts
 - Translating technical results for a non-specialist audience
 - Critical communication of methodological limitations
 
-## Author and project team
+## Author
 
 **Analysis, interpretation, writing and poster production:** Noura Lakrimdi
-
-
 
 MSc Data Science, Middlesex University, 2026.

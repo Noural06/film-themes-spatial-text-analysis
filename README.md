@@ -51,3 +51,13 @@ I independently completed the full project presented in the poster, including th
 **Analysis, interpretation, writing and poster production:** Noura Lakrimdi
 
 MSc Data Science, Middlesex University, 2026
+
+## How to cite
+
+If you use this project's code, analysis, figures or findings in your work, please cite:
+
+```text
+Lakrimdi, N. (2026). Place, Perception, and Narrative in Film Data: Spatial and Textual Analysis of Violence and Poverty Themes [Research project repository]. GitHub. https://github.com/Noural06/film-themes-spatial-text-analysis
+```
+
+For reproducibility, also record the commit SHA or release used and your access date. Cite any original third-party sources separately.

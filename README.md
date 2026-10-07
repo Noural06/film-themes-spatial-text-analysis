@@ -1,5 +1,7 @@
 # Place, Perception, and Narrative in Film Data
 
+**Author:** Noura Lakrimdi
+
 ## Spatial and Textual Analysis of Violence and Poverty Themes
 
 An independently completed MSc Data Science project investigating whether violence-related and poverty-related themes are more prevalent in films produced in the Southern Hemisphere than in the Northern Hemisphere between 1990 and 2024.
